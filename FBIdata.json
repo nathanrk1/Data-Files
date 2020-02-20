@@ -1,0 +1,102 @@
+[
+ {
+   "Year": 1997,
+   "Population": 267783607,
+   "Violent": 1636096
+ },
+ {
+   "Year": 1998,
+   "Population": 270248003,
+   "Violent": 1533887
+ },
+ {
+   "Year": 1999,
+   "Population": 272690813,
+   "Violent": 1426044
+ },
+ {
+   "Year": 2000,
+   "Population": 281421906,
+   "Violent": 1425486
+ },
+ {
+   "Year": 2001,
+   "Population": 285317559,
+   "Violent": 1439480
+ },
+ {
+   "Year": 2002,
+   "Population": 287973924,
+   "Violent": 1423677
+ },
+ {
+   "Year": 2003,
+   "Population": 290788976,
+   "Violent": 1383676
+ },
+ {
+   "Year": 2004,
+   "Population": 293656842,
+   "Violent": 1360088
+ },
+ {
+   "Year": 2005,
+   "Population": 296507061,
+   "Violent": 1390745
+ },
+ {
+   "Year": 2006,
+   "Population": 299398484,
+   "Violent": 1435123
+ },
+ {
+   "Year": 2007,
+   "Population": 301621157,
+   "Violent": 1422970
+ },
+ {
+   "Year": 2008,
+   "Population": 304059724,
+   "Violent": 1394461
+ },
+ {
+   "Year": 2009,
+   "Population": 307006550,
+   "Violent": 1325896
+ },
+ {
+   "Year": 2010,
+   "Population": 309330219,
+   "Violent": 1251248
+ },
+ {
+   "Year": 2011,
+   "Population": 311587816,
+   "Violent": 1206005
+ },
+ {
+   "Year": 2012,
+   "Population": 313873685,
+   "Violent": 1217057
+ },
+ {
+   "Year": 2013,
+   "Population": 316497531,
+   "Violent": 1168298
+ },
+ {
+   "Year": 2014,
+   "Population": 318907401,
+   "Violent": 1153022
+ },
+ {
+   "Year": 2015,
+   "Population": 320896618,
+   "Violent": 1199310
+ },
+ {
+   "Year": 2016,
+   "Population": 323127513,
+   "Violent": 1248185
+ }
+]
