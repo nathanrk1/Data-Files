@@ -1,0 +1,407 @@
+[
+ {
+   "Year": 1970,
+   "unitedStates": 33,
+   "afghanistan": 0,
+   "iran": 0,
+   "iraq": 0,
+   "israel": 1,
+   "syria": 0
+ },
+ {
+   "Year": 1971,
+   "unitedStates": 20,
+   "afghanistan": 0,
+   "iran": 4,
+   "iraq": 0,
+   "israel": 1,
+   "syria": 0
+ },
+ {
+   "Year": 1972,
+   "unitedStates": 10,
+   "afghanistan": 0,
+   "iran": 1,
+   "iraq": 0,
+   "israel": 26,
+   "syria": 0
+ },
+ {
+   "Year": 1973,
+   "unitedStates": 45,
+   "afghanistan": 0,
+   "iran": 1,
+   "iraq": 0,
+   "israel": 2,
+   "syria": 0
+ },
+ {
+   "Year": 1974,
+   "unitedStates": 16,
+   "afghanistan": 0,
+   "iran": 1,
+   "iraq": 0,
+   "israel": 78,
+   "syria": 1
+ },
+ {
+   "Year": 1975,
+   "unitedStates": 24,
+   "afghanistan": 0,
+   "iran": 8,
+   "iraq": 0,
+   "israel": 24,
+   "syria": 0
+ },
+ {
+   "Year": 1976,
+   "unitedStates": 4,
+   "afghanistan": 0,
+   "iran": 5,
+   "iraq": 12,
+   "israel": 1,
+   "syria": 5
+ },
+ {
+   "Year": 1977,
+   "unitedStates": 4,
+   "afghanistan": 0,
+   "iran": 2,
+   "iraq": 0,
+   "israel": 5,
+   "syria": 1
+ },
+ {
+   "Year": 1978,
+   "unitedStates": 8,
+   "afghanistan": 0,
+   "iran": 447,
+   "iraq": 0,
+   "israel": 52,
+   "syria": 0
+ },
+ {
+   "Year": 1979,
+   "unitedStates": 18,
+   "afghanistan": 53,
+   "iran": 57,
+   "iraq": 1,
+   "israel": 64,
+   "syria": 80
+ },
+ {
+   "Year": 1980,
+   "unitedStates": 15,
+   "afghanistan": 0,
+   "iran": 55,
+   "iraq": 8,
+   "israel": 14,
+   "syria": 89
+ },
+ {
+   "Year": 1981,
+   "unitedStates": 8,
+   "afghanistan": 0,
+   "iran": 224,
+   "iraq": 0,
+   "israel": 3,
+   "syria": 192
+ },
+ {
+   "Year": 1982,
+   "unitedStates": 11,
+   "afghanistan": 0,
+   "iran": 139,
+   "iraq": 96,
+   "israel": 3,
+   "syria": 98
+ },
+ {
+   "Year": 1983,
+   "unitedStates": 8,
+   "afghanistan": 0,
+   "iran": 0,
+   "iraq": 1,
+   "israel": 16,
+   "syria": 1
+ },
+ {
+   "Year": 1984,
+   "unitedStates": 3,
+   "afghanistan": 0,
+   "iran": 29,
+   "iraq": 0,
+   "israel": 7,
+   "syria": 0
+ },
+ {
+   "Year": 1985,
+   "unitedStates": 3,
+   "afghanistan": 0,
+   "iran": 22,
+   "iraq": 0,
+   "israel": 12,
+   "syria": 30
+ },
+ {
+   "Year": 1986,
+   "unitedStates": 1,
+   "afghanistan": 0,
+   "iran": 39,
+   "iraq": 0,
+   "israel": 35,
+   "syria": 8
+ },
+ {
+   "Year": 1987,
+   "unitedStates": 1,
+   "afghanistan": 0,
+   "iran": 0,
+   "iraq": 0,
+   "israel": 11,
+   "syria": 0
+ },
+ {
+   "Year": 1988,
+   "unitedStates": 1,
+   "afghanistan": 128,
+   "iran": 18,
+   "iraq": 43,
+   "israel": 13,
+   "syria": 0
+ },
+ {
+   "Year": 1989,
+   "unitedStates": 3,
+   "afghanistan": 10,
+   "iran": 14,
+   "iraq": 0,
+   "israel": 27,
+   "syria": 0
+ },
+ {
+   "Year": 1990,
+   "unitedStates": 5,
+   "afghanistan": 12,
+   "iran": 10,
+   "iraq": 0,
+   "israel": 57,
+   "syria": 0
+ },
+ {
+   "Year": 1991,
+   "unitedStates": 2,
+   "afghanistan": 68,
+   "iran": 2,
+   "iraq": 1,
+   "israel": 31,
+   "syria": 0
+ },
+ {
+   "Year": 1992,
+   "unitedStates": 2,
+   "afghanistan": 49,
+   "iran": 9,
+   "iraq": 117,
+   "israel": 38,
+   "syria": 0
+ },
+ {
+   "Year": 1994,
+   "unitedStates": 10,
+   "afghanistan": 22,
+   "iran": 74,
+   "iraq": 75,
+   "israel": 60,
+   "syria": 0
+ },
+ {
+   "Year": 1995,
+   "unitedStates": 170,
+   "afghanistan": 5,
+   "iran": 0,
+   "iraq": 156,
+   "israel": 18,
+   "syria": 0
+ },
+ {
+   "Year": 1996,
+   "unitedStates": 2,
+   "afghanistan": 31,
+   "iran": 3,
+   "iraq": 11,
+   "israel": 73,
+   "syria": 15
+ },
+ {
+   "Year": 1997,
+   "unitedStates": 2,
+   "afghanistan": 4,
+   "iran": 4,
+   "iraq": 106,
+   "israel": 31,
+   "syria": 2
+ },
+ {
+   "Year": 1998,
+   "unitedStates": 4,
+   "afghanistan": 8,
+   "iran": 6,
+   "iraq": 19,
+   "israel": 19,
+   "syria": 0
+ },
+ {
+   "Year": 1999,
+   "unitedStates": 20,
+   "afghanistan": 39,
+   "iran": 4,
+   "iraq": 32,
+   "israel": 6,
+   "syria": 0
+ },
+ {
+   "Year": 2000,
+   "unitedStates": 0,
+   "afghanistan": 38,
+   "iran": 5,
+   "iraq": 10,
+   "israel": 11,
+   "syria": 0
+ },
+ {
+   "Year": 2001,
+   "unitedStates": 3003,
+   "afghanistan": 174,
+   "iran": 0,
+   "iraq": 9,
+   "israel": 140,
+   "syria": 0
+ },
+ {
+   "Year": 2002,
+   "unitedStates": 4,
+   "afghanistan": 74,
+   "iran": 0,
+   "iraq": 10,
+   "israel": 327,
+   "syria": 0
+ },
+ {
+   "Year": 2003,
+   "unitedStates": 0,
+   "afghanistan": 163,
+   "iran": 0,
+   "iraq": 347,
+   "israel": 154,
+   "syria": 0
+ },
+ {
+   "Year": 2004,
+   "unitedStates": 0,
+   "afghanistan": 275,
+   "iran": 0,
+   "iraq": 2146,
+   "israel": 59,
+   "syria": 4
+ },
+ {
+   "Year": 2005,
+   "unitedStates": 0,
+   "afghanistan": 367,
+   "iran": 13,
+   "iraq": 3380,
+   "israel": 45,
+   "syria": 0
+ },
+ {
+   "Year": 2006,
+   "unitedStates": 1,
+   "afghanistan": 731,
+   "iran": 48,
+   "iraq": 4612,
+   "israel": 51,
+   "syria": 5
+ },
+ {
+   "Year": 2007,
+   "unitedStates": 0,
+   "afghanistan": 1197,
+   "iran": 24,
+   "iraq": 6648,
+   "israel": 17,
+   "syria": 0
+ },
+ {
+   "Year": 2008,
+   "unitedStates": 2,
+   "afghanistan": 1089,
+   "iran": 26,
+   "iraq": 2863,
+   "israel": 34,
+   "syria": 18
+ },
+ {
+   "Year": 2009,
+   "unitedStates": 18,
+   "afghanistan": 1064,
+   "iran": 97,
+   "iraq": 2583,
+   "israel": 1,
+   "syria": 0
+ },
+ {
+   "Year": 2010,
+   "unitedStates": 4,
+   "afghanistan": 1058,
+   "iran": 115,
+   "iraq": 2071,
+   "israel": 4,
+   "syria": 0
+ },
+ {
+   "Year": 2011,
+   "unitedStates": 0,
+   "afghanistan": 1521,
+   "iran": 18,
+   "iraq": 1865,
+   "israel": 21,
+   "syria": 163
+ },
+ {
+   "Year": 2012,
+   "unitedStates": 7,
+   "afghanistan": 3521,
+   "iran": 12,
+   "iraq": 2688,
+   "israel": 14,
+   "syria": 876
+ },
+ {
+   "Year": 2013,
+   "unitedStates": 22,
+   "afghanistan": 3696,
+   "iran": 39,
+   "iraq": 7038,
+   "israel": 2,
+   "syria": 1558
+ },
+ {
+   "Year": 2014,
+   "unitedStates": 19,
+   "afghanistan": 5413,
+   "iran": 13,
+   "iraq": 13076,
+   "israel": 49,
+   "syria": 3301
+ },
+ {
+   "Year": 2015,
+   "unitedStates": 44,
+   "afghanistan": 6208,
+   "iran": 38,
+   "iraq": 8831,
+   "israel": 20,
+   "syria": 3916
+ }
+]
