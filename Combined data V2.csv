@@ -1,0 +1,46 @@
+﻿StudentID,What is your academic status (choose one),What is your major?,Secondary Major (If Applicable),Select your class section,1Q1,1Q2,1Q3,2Q1,2Q2,3Q1,3Q2,3Q3
+StudentID_0000,Sophomore,Civil Engineering,n/a,CGT 27000-LC (Wednesday/Friday),4,4,2,4,4,4,4,4
+StudentID_0049,Freshman,Data Science,n/a,CGT 27000-LC (Wednesday/Friday),5,5,5,4,4,5,5,5
+StudentID_1287,Sophomore,UX Design ,n/a,CGT 27000-LC (Wednesday/Friday),3,4,4,3,3,3,3,3
+StudentID_1418,Sophomore,Cybersecurity,n/a,CGT 27000-LC (Wednesday/Friday),3,4,3,3,2,3,3,3
+StudentID_2049,Freshman,Data Science,n/a,CGT 27000-LC (Wednesday/Friday),4,4,3,,,,,
+StudentID_2495,Sophomore,Industrial Engineering,n/a,CGT 27000-LC (Wednesday/Friday),4,4,4,4,4,4,4,4
+StudentID_2501,Sophomore,Computer Networking Information Technology,n/a,CGT 27000-LC (Wednesday/Friday),4,3,2,3,3,3,2,3
+StudentID_3146,Sophomore,Statistics,n/a,CGT 27000-LC (Wednesday/Friday),4,4,3,4,4,4,4,4
+StudentID_3151,Sophomore,Data Science,n/a,CGT 27000-LC (Wednesday/Friday),4,3,3,3,3,3,3,3
+StudentID_3867,Sophomore,Computer Science,n/a,CGT 27000-LC (Wednesday/Friday),3,3,4,4,4,,,
+StudentID_4031,Sophomore,Computer Science,n/a,CGT 27000-LC (Wednesday/Friday),4,4,3,4,4,4,4,4
+StudentID_4160,Sophomore,Applied Statistics,n/a,CGT 27000-LC (Wednesday/Friday),4,4,3,4,4,4,3,3
+StudentID_4794,Sophomore,Accounting ,n/a,CGT 27000-LC (Wednesday/Friday),4,4,2,4,4,4,4,4
+StudentID_5462,Senior,Web Programming and Design,n/a,CGT 27000-LC (Wednesday/Friday),4,4,4,4,4,4,4,4
+StudentID_6720,Junior,Web Programming and Design,n/a,CGT 27000-LC (Wednesday/Friday),4,4,4,4,4,5,5,5
+StudentID_7147,Sophomore,Cybersecurity,n/a,CGT 27000-LC (Wednesday/Friday),4,4,3,4,4,4,4,4
+StudentID_7164,Sophomore,Physics,n/a,CGT 27000-LC (Wednesday/Friday),3,3,4,2,2,4,4,5
+StudentID_7367,Sophomore,Data Science,n/a,CGT 27000-LC (Wednesday/Friday),4,4,4,4,3,4,4,4
+StudentID_7449,Sophomore,Data Science,Spanish,CGT 27000-LC (Wednesday/Friday),4,4,2,5,4,4,4,4
+StudentID_9609,Junior,Computer Science,n/a,CGT 27000-LC (Wednesday/Friday),4,3,2,4,3,3,4,4
+StudentID_9853,Junior,Computer Science,Data Science,CGT 27000-LC (Wednesday/Friday),4,4,4,4,4,4,4,4
+StudentID_9887,Sophomore,Civil Engineering,n/a,CGT 27000-LC (Wednesday/Friday),4,2,3,4,4,4,4,4
+StudentID_9923,Sophomore,Psychology,n/a,CGT 27000-LC (Wednesday/Friday),4,4,3,4,4,5,5,5
+StudentID_0038,Sophomore,Data Visualization,Web Programming and Design,CGT27000-001 (Tuesday/Thursday),4,4,4,4,4,4,4,4
+StudentID_1572,Senior,Computer Graphics Technologies,n/a,CGT27000-001 (Tuesday/Thursday),4,4,3,4,4,3,3,3
+StudentID_2179,Sophomore,Chemical Engineering,n/a,CGT27000-001 (Tuesday/Thursday),4,4,3,3,3,3,3,3
+StudentID_3986,Junior,Web Programming and Design,n/a,CGT27000-001 (Tuesday/Thursday),4,4,3,4,4,4,4,4
+StudentID_4070,Sophomore,Animation,n/a,CGT27000-001 (Tuesday/Thursday),4,4,2,3,2,4,4,2
+StudentID_4522,Sophomore,Data Visualization,n/a,CGT27000-001 (Tuesday/Thursday),4,4,4,4,4,3,3,
+StudentID_4625,Junior,Undecided,n/a,CGT27000-001 (Tuesday/Thursday),2,2,1,3,3,2,4,5
+StudentID_4927,Senior,Web Programming and Design,n/a,CGT27000-001 (Tuesday/Thursday),4,3,2,4,4,,,
+StudentID_5283,Sophomore,Data Visualization,Web Programming and Design,CGT27000-001 (Tuesday/Thursday),3,4,5,3,3,3,3,5
+StudentID_5337,Junior,Web Programming and Design,n/a,CGT27000-001 (Tuesday/Thursday),3,3,4,3,3,3,4,4
+StudentID_5370,Senior,Virtual Product Integration,n/a,CGT27000-001 (Tuesday/Thursday),4,4,3,4,4,4,4,4
+StudentID_5389,Sophomore,UX Design,n/a,CGT27000-001 (Tuesday/Thursday),3,4,2,4,3,3,4,3
+StudentID_5798,Junior,Web Programming and Design,n/a,CGT27000-001 (Tuesday/Thursday),3,4,4,5,4,5,5,5
+StudentID_6558,Senior,Building Information Modeling,n/a,CGT27000-001 (Tuesday/Thursday),3,4,4,4,4,2,5,4
+StudentID_7139,Junior,Web Programming and Design,n/a,CGT27000-001 (Tuesday/Thursday),4,4,4,4,4,3,4,4
+StudentID_7482,Junior,Web Programming and Design,n/a,CGT27000-001 (Tuesday/Thursday),4,4,3,4,4,4,4,4
+StudentID_7502,Junior,Web Programming and Design,Public Relations,CGT27000-001 (Tuesday/Thursday),3,4,4,4,4,3,3,4
+StudentID_8333,Junior,Web Programming and Design,n/a,CGT27000-001 (Tuesday/Thursday),3,3,4,3,4,3,4,4
+StudentID_8842,Junior,Web Programming and Design,n/a,CGT27000-001 (Tuesday/Thursday),3,4,4,4,3,4,3,3
+StudentID_9097,Junior,Data Visualization,n/a,CGT27000-001 (Tuesday/Thursday),4,4,3,4,3,4,3,4
+StudentID_9386,Junior,Web Programming and Design,n/a,CGT2700-001 (Tuesday/Thursday),4,3,3,,,,,
+StudentID_9802,Sophomore,Web Programming and Design,n/a,CGT27000-001 (Tuesday/Thursday),4,4,4,4,4,4,4,4
