@@ -1,0 +1,57 @@
+[
+{
+className: 'StudentID_6720'
+axes: [
+   {axis: "S1Q1", value: 4},
+   {axis:"S1Q2", value: 4},
+   {axis:"S1Q3", value: 4},
+   {axis:"S2Q1", value: 4},
+   {axis:"S2Q2", value: 4},
+   {axis: "S3Q1", value: 5},
+   {axis: "S3Q2", value: 5},
+   {axis:"S3Q3", value: 5}
+]
+},
+
+{
+className: 'StudentID_7164'
+axes: [
+   {axis: "S1Q1", value: 3},
+   {axis:"S1Q2", value: 3},
+   {axis:"S1Q3", value: 4},
+   {axis:"S2Q1", value: 2},
+   {axis:"S2Q2", value: 2},
+   {axis: "S3Q1", value: 4},
+   {axis: "S3Q2", value: 4},
+   {axis:"S3Q3", value: 5}
+]
+},
+
+[{
+className: 'StudentID_3986'
+axes: [
+   {axis: "S1Q1", value: 4},
+   {axis:"S1Q2", value: 4},
+   {axis:"S1Q3", value: 3},
+   {axis:"S2Q1", value: 4},
+   {axis:"S2Q2", value: 4},
+   {axis: "S3Q1", value: 4},
+   {axis: "S3Q2", value: 4},
+   {axis:"S3Q3", value: 4}
+]
+},
+
+{
+className: 'StudentID_9097'
+axes: [
+   {axis: "S1Q1", value: 4},
+   {axis:"S1Q2", value: 4},
+   {axis:"S1Q3", value: 3},
+   {axis:"S2Q1", value: 4},
+   {axis:"S2Q2", value: 3},
+   {axis: "S3Q1", value: 4},
+   {axis: "S3Q2", value: 3},
+   {axis:"S3Q3", value: 4}
+]
+}
+]
