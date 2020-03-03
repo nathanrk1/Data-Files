@@ -1,0 +1,407 @@
+[
+ {
+   "StudentID": "StudentID_0000",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Civil Engineering",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_0049",
+   "What is your academic status (choose one)": "Freshman",
+   "What is your major?": "Data Science",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_1287",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "UX Design ",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 3,
+   "2Q2": 3
+ },
+ {
+   "StudentID": "StudentID_1418",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Cybersecurity",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 3,
+   "2Q2": 2
+ },
+ {
+   "StudentID": "StudentID_2049",
+   "What is your academic status (choose one)": "Freshman",
+   "What is your major?": "Data Science",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": null,
+   "2Q2": null
+ },
+ {
+   "StudentID": "StudentID_2495",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Industrial Engineering",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_2501",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Computer Networking Information Technology",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 3,
+   "2Q2": 3
+ },
+ {
+   "StudentID": "StudentID_3146",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Statistics",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_3151",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Data Science",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 3,
+   "2Q2": 3
+ },
+ {
+   "StudentID": "StudentID_3867",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Computer Science",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_4031",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Computer Science",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_4160",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Applied Statistics",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_4794",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Accounting ",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_5462",
+   "What is your academic status (choose one)": "Senior",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_6720",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_7147",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Cybersecurity",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_7164",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Physics",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 2,
+   "2Q2": 2
+ },
+ {
+   "StudentID": "StudentID_7367",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Data Science",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 3
+ },
+ {
+   "StudentID": "StudentID_7449",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Data Science",
+   "Secondary Major (If Applicable)": "Spanish",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 5,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_9609",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Computer Science",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 3
+ },
+ {
+   "StudentID": "StudentID_9853",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Computer Science",
+   "Secondary Major (If Applicable)": "Data Science",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_9887",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Civil Engineering",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_9923",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Psychology",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT 27000-LC (Wednesday/Friday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_0038",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Data Visualization",
+   "Secondary Major (If Applicable)": "Web Programming and Design",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_1572",
+   "What is your academic status (choose one)": "Senior",
+   "What is your major?": "Computer Graphics Technologies",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_2179",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Chemical Engineering",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 3,
+   "2Q2": 3
+ },
+ {
+   "StudentID": "StudentID_3986",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_4070",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Animation",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 3,
+   "2Q2": 2
+ },
+ {
+   "StudentID": "StudentID_4522",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Data Visualization",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_4625",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Undecided",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 3,
+   "2Q2": 3
+ },
+ {
+   "StudentID": "StudentID_4927",
+   "What is your academic status (choose one)": "Senior",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_5283",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Data Visualization",
+   "Secondary Major (If Applicable)": "Web Programming and Design",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 3,
+   "2Q2": 3
+ },
+ {
+   "StudentID": "StudentID_5337",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 3,
+   "2Q2": 3
+ },
+ {
+   "StudentID": "StudentID_5370",
+   "What is your academic status (choose one)": "Senior",
+   "What is your major?": "Virtual Product Integration",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_5389",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "UX Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 3
+ },
+ {
+   "StudentID": "StudentID_5798",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 5,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_6558",
+   "What is your academic status (choose one)": "Senior",
+   "What is your major?": "Building Information Modeling",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_7139",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_7482",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_7502",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "Public Relations",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_8333",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 3,
+   "2Q2": 4
+ },
+ {
+   "StudentID": "StudentID_8842",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 3
+ },
+ {
+   "StudentID": "StudentID_9097",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Data Visualization",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 3
+ },
+ {
+   "StudentID": "StudentID_9386",
+   "What is your academic status (choose one)": "Junior",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT2700-001 (Tuesday/Thursday)",
+   "2Q1": null,
+   "2Q2": null
+ },
+ {
+   "StudentID": "StudentID_9802",
+   "What is your academic status (choose one)": "Sophomore",
+   "What is your major?": "Web Programming and Design",
+   "Secondary Major (If Applicable)": "n/a",
+   "Select your class section": "CGT27000-001 (Tuesday/Thursday)",
+   "2Q1": 4,
+   "2Q2": 4
+ }
+]
