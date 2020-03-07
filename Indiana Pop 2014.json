@@ -1,0 +1,370 @@
+[
+ {
+   "county": "Adams",
+   "pop": 31095
+ },
+ {
+   "county": "Allen",
+   "pop": 300836
+ },
+ {
+   "county": "Bartholomew",
+   "pop": 63657
+ },
+ {
+   "county": "Benton",
+   "pop": 9441
+ },
+ {
+   "county": "Blackford",
+   "pop": 14067
+ },
+ {
+   "county": "Boone",
+   "pop": 38147
+ },
+ {
+   "county": "Brown",
+   "pop": 14080
+ },
+ {
+   "county": "Carroll",
+   "pop": 18809
+ },
+ {
+   "county": "Cass",
+   "pop": 38413
+ },
+ {
+   "county": "Clark",
+   "pop": 87777
+ },
+ {
+   "county": "Clay",
+   "pop": 24705
+ },
+ {
+   "county": "Clinton",
+   "pop": 30974
+ },
+ {
+   "county": "Crawford",
+   "pop": 9914
+ },
+ {
+   "county": "Daviess",
+   "pop": 27533
+ },
+ {
+   "county": "Dearborn",
+   "pop": 38835
+ },
+ {
+   "county": "Decatur",
+   "pop": 23645
+ },
+ {
+   "county": "De Kalb",
+   "pop": 35324
+ },
+ {
+   "county": "Delaware",
+   "pop": 119659
+ },
+ {
+   "county": "Dubois",
+   "pop": 36616
+ },
+ {
+   "county": "Elkhart",
+   "pop": 156198
+ },
+ {
+   "county": "Fayette",
+   "pop": 26015
+ },
+ {
+   "county": "Floyd",
+   "pop": 64404
+ },
+ {
+   "county": "Fountain",
+   "pop": 17808
+ },
+ {
+   "county": "Franklin",
+   "pop": 19580
+ },
+ {
+   "county": "Fulton",
+   "pop": 18840
+ },
+ {
+   "county": "Gibson",
+   "pop": 31913
+ },
+ {
+   "county": "Grant",
+   "pop": 74169
+ },
+ {
+   "county": "Greene",
+   "pop": 30410
+ },
+ {
+   "county": "Hamilton",
+   "pop": 108936
+ },
+ {
+   "county": "Hancock",
+   "pop": 45527
+ },
+ {
+   "county": "Harrison",
+   "pop": 29890
+ },
+ {
+   "county": "Hendricks",
+   "pop": 75717
+ },
+ {
+   "county": "Henry",
+   "pop": 48139
+ },
+ {
+   "county": "Howard",
+   "pop": 80827
+ },
+ {
+   "county": "Huntington",
+   "pop": 35427
+ },
+ {
+   "county": "Jackson",
+   "pop": 37730
+ },
+ {
+   "county": "Jasper",
+   "pop": 24960
+ },
+ {
+   "county": "Jay",
+   "pop": 21512
+ },
+ {
+   "county": "Jefferson",
+   "pop": 29797
+ },
+ {
+   "county": "Jennings",
+   "pop": 23661
+ },
+ {
+   "county": "Johnson",
+   "pop": 88109
+ },
+ {
+   "county": "Knox",
+   "pop": 39884
+ },
+ {
+   "county": "Kosciusko",
+   "pop": 65294
+ },
+ {
+   "county": "Lagrange",
+   "pop": 29477
+ },
+ {
+   "county": "Lake",
+   "pop": 475594
+ },
+ {
+   "county": "La Porte",
+   "pop": 107066
+ },
+ {
+   "county": "Lawrence",
+   "pop": 42836
+ },
+ {
+   "county": "Madison",
+   "pop": 130669
+ },
+ {
+   "county": "Marion",
+   "pop": 797159
+ },
+ {
+   "county": "Marshall",
+   "pop": 42182
+ },
+ {
+   "county": "Martin",
+   "pop": 10369
+ },
+ {
+   "county": "Miami",
+   "pop": 36897
+ },
+ {
+   "county": "Monroe",
+   "pop": 108978
+ },
+ {
+   "county": "Montgomery",
+   "pop": 34436
+ },
+ {
+   "county": "Morgan",
+   "pop": 55920
+ },
+ {
+   "county": "Newton",
+   "pop": 13551
+ },
+ {
+   "county": "Noble",
+   "pop": 37877
+ },
+ {
+   "county": "Ohio",
+   "pop": 5315
+ },
+ {
+   "county": "Orange",
+   "pop": 18409
+ },
+ {
+   "county": "Owen",
+   "pop": 17281
+ },
+ {
+   "county": "Parke",
+   "pop": 15410
+ },
+ {
+   "county": "Perry",
+   "pop": 19107
+ },
+ {
+   "county": "Pike",
+   "pop": 12509
+ },
+ {
+   "county": "Porter",
+   "pop": 128932
+ },
+ {
+   "county": "Posey",
+   "pop": 25968
+ },
+ {
+   "county": "Pulaski",
+   "pop": 12643
+ },
+ {
+   "county": "Putnam",
+   "pop": 30315
+ },
+ {
+   "county": "Randolph",
+   "pop": 27148
+ },
+ {
+   "county": "Ripley",
+   "pop": 24616
+ },
+ {
+   "county": "Rush",
+   "pop": 18129
+ },
+ {
+   "county": "St Joseph",
+   "pop": 247052
+ },
+ {
+   "county": "Scott",
+   "pop": 20991
+ },
+ {
+   "county": "Shelby",
+   "pop": 40307
+ },
+ {
+   "county": "Spencer",
+   "pop": 19490
+ },
+ {
+   "county": "Starke",
+   "pop": 22747
+ },
+ {
+   "county": "Steuben",
+   "pop": 27446
+ },
+ {
+   "county": "Sullivan",
+   "pop": 18993
+ },
+ {
+   "county": "Switzerland",
+   "pop": 7738
+ },
+ {
+   "county": "Tippecanoe",
+   "pop": 130598
+ },
+ {
+   "county": "Tipton",
+   "pop": 16119
+ },
+ {
+   "county": "Union",
+   "pop": 6976
+ },
+ {
+   "county": "Vanderburgh",
+   "pop": 165058
+ },
+ {
+   "county": "Vermillion",
+   "pop": 16773
+ },
+ {
+   "county": "Vigo",
+   "pop": 106107
+ },
+ {
+   "county": "Wabash",
+   "pop": 35069
+ },
+ {
+   "county": "Warren",
+   "pop": 8176
+ },
+ {
+   "county": "Warrick",
+   "pop": 44920
+ },
+ {
+   "county": "Washington",
+   "pop": 23717
+ },
+ {
+   "county": "Wayne",
+   "pop": 71951
+ },
+ {
+   "county": "Wells",
+   "pop": 25948
+ },
+ {
+   "county": "White",
+   "pop": 23265
+ },
+ {
+   "county": "Whitley",
+   "pop": 27651
+ }
+]
